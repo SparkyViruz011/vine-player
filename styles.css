@@ -5,7 +5,7 @@ background-image: url(http://lolwp.com/wp-content/uploads/High-Noon-Twisted-Fate
 
 .video-container {
   padding: 6px;
-  background-color: #fff;
+background-color: rgba(215, 44, 44, 0.5);
   border-radius: 5px;
   overflow: hidden;
   display: inline-block;
@@ -14,5 +14,5 @@ background-image: url(http://lolwp.com/wp-content/uploads/High-Noon-Twisted-Fate
 
 video {
   height: 400px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
